@@ -29,5 +29,5 @@
 
 ## 关于作者
 *邮箱*： <2838522089@qq.com>  
-[B站](https://space.bilibili.com/3494367834671159)  
+[B站](https://space.bilibili.com/3707006848338856)  
 [mcmod](https://center.mcmod.cn/345496/)
