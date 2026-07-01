@@ -4,7 +4,7 @@
 <br>
 
 1. **有关Changed?** <br>
-本整合包使用了由 **Ltxprogrammer** 开发的 **Changed-Minecraft-Mod（MIT 许可证）**模组。  
+本整合包使用了由 **[Ltxprogrammer](https://github.com/LtxProgrammer)** 开发的 **[Changed-Minecraft-Mod](https://github.com/LtxProgrammer)（MIT 许可证）**模组。  
 该模组**仅作为本包玩法框架的一个组成部分**，其提供的**生物、物品等素材**均在本包独立构建的末日世界观下**被重新赋予背景与功能**。  
 ***本整合包的整体剧情、任务线、建筑风格及核心设定，均为作者完全独立的虚构创作，与《Changed》原作剧情及任何同人设定无任何关联。***  
 <br>
