@@ -22,9 +22,8 @@ Changed mod自带数据包，用于瞬间兽化玩家以及其他被humanoid标�
 * ***loots***<br>
 通用数据包，用于包含常用的战利品表，方便调用。**不建议修改**。
 
-* **modpack_custom**<br>
+* ***modpack_custom***<br>
 整合包定制内容，用于修改一些模组数据、定制游戏内容以及修改/添加部分机制,以及定制结构和战利品表<br>
-**注意：该数据包下的*cus_struc*和*custom_config_tags*文件夹及其中的内容为作者添加，禁止在其他整合包中使用**
 
 * **str_create_easystructures_config**<br>
 模组 *Create:EasyStructures* 相关
@@ -32,8 +31,11 @@ Changed mod自带数据包，用于瞬间兽化玩家以及其他被humanoid标�
 * **str_structury_config**<br>
 模组 *structury* 相关
 
+* ***changed_struc***<br>
+用于深度修改Changed mod内的结构
+
 * ***structures***<br>
 通用数据包，包含通用的自然结构生成及通用结构处理器，以及结构中的战利品表。
 
-* **tectonic-datapack-v2.2.2.zip**  
-*tectonic* 地形模组的数据包版本，用于缓解结构与地形的冲突
+* **superbwarfare_config**<br>
+模组 *卓越前线* 相关
